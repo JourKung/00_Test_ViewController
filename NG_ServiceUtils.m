@@ -12,7 +12,7 @@
     //================================================================
     NSString *MethodName = @"F07_OpenTable";
     NSString *SortingColumn = @"";
-    NSArray *ArrInputColumn = [[NSArray alloc] initWithObjects: @"UserName",@"DeviceName",@"OrderType",@"OrderTableNo", @"OrderCustomerStartQty", @"OrderSeatArrangement", nil];
+    NSArray *ArrInputColumn = [[NSArray alloc] initWithObjects: @"UserName", @"DeviceName", @"OrderType", @"OrderTableNo", @"OrderCustomerStartQty", @"OrderSeatArrangement", nil];
     NSArray *ArrInputValue = [[NSArray alloc] initWithObjects: UserName,DeviceName,OrderType,OrderTableNo, OrderCustomerStartQty, OrderSeatArrangement, nil];
     
     //================================================================
@@ -32,7 +32,7 @@
     //================================================================
     NSString *MethodName = @"F11_CloseTableByTableNo";
     NSString *SortingColumn = @"";
-    NSArray *ArrInputColumn = [[NSArray alloc] initWithObjects: @"UserName",@"DeviceName",@"TableNo", nil];
+    NSArray *ArrInputColumn = [[NSArray alloc] initWithObjects: @"UserName", @"DeviceName", @"TableNo", nil];
     NSArray *ArrInputValue = [[NSArray alloc] initWithObjects: UserName,DeviceName,TableNo, nil];
     
     //================================================================
@@ -51,7 +51,7 @@
     //================================================================
     NSString *MethodName = @"F11_CloseTableByTableNo";
     NSString *SortingColumn = @"";
-    NSArray *ArrInputColumn = [[NSArray alloc] initWithObjects: @"UserName",@"DeviceName",@"TableNo", nil];
+    NSArray *ArrInputColumn = [[NSArray alloc] initWithObjects: @"UserName", @"DeviceName", @"TableNo", nil];
     NSArray *ArrInputValue = [[NSArray alloc] initWithObjects: UserName,DeviceName,TableNo, nil];
     
     //================================================================
@@ -70,7 +70,7 @@
     //================================================================
     NSString *MethodName = @"F11_CloseTableByTableNo";
     NSString *SortingColumn = @"";
-    NSArray *ArrInputColumn = [[NSArray alloc] initWithObjects: @"UserName",@"DeviceName",@"OrderTableNo", nil];
+    NSArray *ArrInputColumn = [[NSArray alloc] initWithObjects: @"UserName", @"DeviceName", @"OrderTableNo", nil];
     NSArray *ArrInputValue = [[NSArray alloc] initWithObjects: UserName,DeviceName,OrderTableNo, nil];
     
     //================================================================
@@ -89,7 +89,7 @@
     //================================================================
     NSString *MethodName = @"F11_CloseTableByTableNo";
     NSString *SortingColumn = @"";
-    NSArray *ArrInputColumn = [[NSArray alloc] initWithObjects: @"UserName",@"DeviceName",@"OrderTableNo", nil];
+    NSArray *ArrInputColumn = [[NSArray alloc] initWithObjects: @"UserName", @"DeviceName", @"OrderTableNo", nil];
     NSArray *ArrInputValue = [[NSArray alloc] initWithObjects: UserName,DeviceName,OrderTableNo, nil];
     
     //================================================================
@@ -108,7 +108,7 @@
     //================================================================
     NSString *MethodName = @"F11_CloseTableByTableNo";
     NSString *SortingColumn = @"";
-    NSArray *ArrInputColumn = [[NSArray alloc] initWithObjects: @"UserName",@"DeviceName",@"OrderNo", nil];
+    NSArray *ArrInputColumn = [[NSArray alloc] initWithObjects: @"UserName", @"DeviceName", @"OrderNo", nil];
     NSArray *ArrInputValue = [[NSArray alloc] initWithObjects: UserName,DeviceName,OrderNo, nil];
     
     //================================================================
